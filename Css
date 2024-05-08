@@ -1,0 +1,26 @@
+.converter {
+  margin: 0 auto;
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+#celsius {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#convert {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#fahrenheit {
+  margin-top: 20px;
+  font-size: 24px;
+}
